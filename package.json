@@ -1,0 +1,17 @@
+{
+  "name": "api_fastfy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.8.4",
+    "eslint": "^8.51.0",
+    "tsx": "^3.13.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "fastify": "^4.23.2",
+    "knex": "^3.0.1",
+    "pg": "^8.11.3"
+  }
+}
